@@ -1,0 +1,10 @@
+Paper,AUROC,Sensitivity,Specificity,Study
+"Dransfield, 2021",0.93,0.89,0.97,1
+"Haug & Ferraro, 2016",0.97,,,0
+"Kam & Kim, 2017",0.93,0.91,0.94,0
+"Delahanty et al., 2019",0.92,0.68,0.96,0
+"Giannini et al., 2019",0.88,0.26,0.98,0
+"Horng et al., 2017",0.86,0.81,0.75,0
+"Calvert et al., 2016",0.83,0.9,0.81,0
+"Scherpf et al., 2019",0.81,,,0
+"van Wyk et al., 2019*",0.72,0.75,0.71,0
